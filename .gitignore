@@ -1,0 +1,5 @@
+*.xlsx
+.venv
+.vscode
+*.code-workspace
+.DS_Store
